@@ -1,0 +1,3033 @@
+{
+    "data": {
+        "roots": [
+            {
+                "id": "805b9922-1e20-4ae5-a96c-04253f8b2a87",
+                "type": "group",
+                "external_reference": "FR",
+                "name": "France",
+                "model_code": "COUNTRY",
+                "children": [
+                    {
+                        "id": "032ac1ee-8a1b-4179-8889-d8f5fdba8857",
+                        "type": "group",
+                        "external_reference": "Z1",
+                        "name": "Z1 - NORD & IDF",
+                        "model_code": "AREA",
+                        "children": [
+                            {
+                                "id": "8833a6c9-3f21-4697-8a3b-0bf62d040eca",
+                                "type": "group",
+                                "external_reference": "Z10",
+                                "name": "Z10 - IDF-Paris Nord",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "cfcbb765-78a0-436f-aeb1-f3819572d51a",
+                                        "type": "shop",
+                                        "external_reference": "1452",
+                                        "name": "ARGENTEUIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bd897887-acff-4ed4-95be-39e127a3763b",
+                                        "type": "shop",
+                                        "external_reference": "1559",
+                                        "name": "ARGENTEUIL MAIRIE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9ff2949f-6a73-4b67-824e-53c1cadb62a8",
+                                        "type": "shop",
+                                        "external_reference": "1262",
+                                        "name": "AULNAY SOUS BOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cbdbead0-2204-4c6f-875d-01d5e14ed4e0",
+                                        "type": "shop",
+                                        "external_reference": "1011",
+                                        "name": "BEZONS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3efe09a2-741f-4891-915a-169ac5fbb855",
+                                        "type": "shop",
+                                        "external_reference": "1281",
+                                        "name": "BOBIGNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "fad7a3d5-7cd4-4408-bd69-5711bdf67839",
+                                        "type": "shop",
+                                        "external_reference": "1340",
+                                        "name": "CHELLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "dcd649ca-0d89-4824-96a7-968f5a8be2f0",
+                                        "type": "shop",
+                                        "external_reference": "1587",
+                                        "name": "CORMEILLES EN PARISIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "15d75f9a-9f6e-4263-8441-28b63a653087",
+                                        "type": "shop",
+                                        "external_reference": "1598",
+                                        "name": "COUILLY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8e865c38-d7d4-44e1-bc06-62779241e71c",
+                                        "type": "shop",
+                                        "external_reference": "1454",
+                                        "name": "COULOMMIERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "481312ba-eeb5-4ba1-983f-9573f78c795a",
+                                        "type": "shop",
+                                        "external_reference": "1451",
+                                        "name": "EAUBONNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "71858eaa-b66d-4235-8f89-b0699cb85258",
+                                        "type": "shop",
+                                        "external_reference": "1129",
+                                        "name": "EPINAY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "11f99df5-3bc8-4535-864f-b9b183d37fea",
+                                        "type": "shop",
+                                        "external_reference": "1410",
+                                        "name": "ESSO - CERGY PONTOISE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "20dd18d4-c7f8-4371-ba42-5f9810a68799",
+                                        "type": "shop",
+                                        "external_reference": "1511",
+                                        "name": "LA FERTE GAUCHER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "852256cd-1e9f-4823-856e-c2269c11ca29",
+                                        "type": "shop",
+                                        "external_reference": "1274",
+                                        "name": "LA PATTE D'OIE D'HERBLAY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4230aaf0-8d1a-4c30-8e09-547622c3b179",
+                                        "type": "shop",
+                                        "external_reference": "1168",
+                                        "name": "MEAUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6d5be720-93e8-4a9e-a97d-3b6727ad028d",
+                                        "type": "shop",
+                                        "external_reference": "1593",
+                                        "name": "MONTFERMEIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e781c2dd-0cab-4190-bde4-a69826aedd82",
+                                        "type": "shop",
+                                        "external_reference": "1031",
+                                        "name": "MONTREUIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0310557d-b41b-4762-b597-e6d956abfcb0",
+                                        "type": "shop",
+                                        "external_reference": "1243",
+                                        "name": "OSNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "416ad2cb-a405-49fb-b357-de2a6c4eec95",
+                                        "type": "shop",
+                                        "external_reference": "1006",
+                                        "name": "PARIS 20 - NATION",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "468beb8f-cfef-4383-b617-d834b42c7361",
+                                        "type": "shop",
+                                        "external_reference": "1273",
+                                        "name": "PARIS 20 - PYRENEES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c131529c-7ef5-44d7-ae1f-452a54d6e570",
+                                        "type": "shop",
+                                        "external_reference": "1110",
+                                        "name": "PAVILLONS SOUS BOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "196590ce-4ab1-4eb5-bb84-ba514323ad25",
+                                        "type": "shop",
+                                        "external_reference": "1075",
+                                        "name": "PIERREFITTE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "58d45de2-b6b5-424a-afbe-2224b0031044",
+                                        "type": "shop",
+                                        "external_reference": "1267",
+                                        "name": "SAINT BRICE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "78204388-1a3c-489b-8dec-fd7fa6fe06f5",
+                                        "type": "shop",
+                                        "external_reference": "1151",
+                                        "name": "SAINT OUEN L'AUMONE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bc6f85b0-9cc9-4322-8f85-808dc6511265",
+                                        "type": "shop",
+                                        "external_reference": "1277",
+                                        "name": "SANNOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bb32d9df-e6e9-4cec-9e90-3dbc4de9b335",
+                                        "type": "shop",
+                                        "external_reference": "1387",
+                                        "name": "STAINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ccbad810-f9e9-4cd4-82d9-1d7d2a7b590c",
+                                        "type": "shop",
+                                        "external_reference": "1444",
+                                        "name": "TAVERNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1bb08620-8f03-436c-abaf-4647a26027ed",
+                                        "type": "shop",
+                                        "external_reference": "1352",
+                                        "name": "VINCENNES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "3b9ac7cc-7907-4dfd-aa23-fe03d8c2e85a",
+                                "type": "group",
+                                "external_reference": "Z11",
+                                "name": "Z11 - IDF-Paris Sud & Est",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "83a612fe-7306-4cd4-8ac7-bcad172826d1",
+                                        "type": "shop",
+                                        "external_reference": "1199",
+                                        "name": "AVON FONTAINEBLEAU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "829ff054-24e3-4793-86dc-584f2bfd5fd2",
+                                        "type": "shop",
+                                        "external_reference": "1407",
+                                        "name": "BONNEUIL SUR MARNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0bd3beaf-e4d1-43ef-9180-c22bcbde08ce",
+                                        "type": "shop",
+                                        "external_reference": "1383",
+                                        "name": "BRIE COMTE ROBERT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "aaf2efb4-f6b9-4b6c-8cb2-738d6cf2ad93",
+                                        "type": "shop",
+                                        "external_reference": "1209",
+                                        "name": "BRUNOY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0b77c2f8-8236-49bb-a225-732984bc5c76",
+                                        "type": "shop",
+                                        "external_reference": "1409",
+                                        "name": "CHAMPIGNY PONT DE NOGENT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4a711e2d-be1a-4f10-a8dc-cdb556191c92",
+                                        "type": "shop",
+                                        "external_reference": "1211",
+                                        "name": "CHOISY LE ROI",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ffb3e94d-41fc-4993-a798-b9e94ff8dea7",
+                                        "type": "shop",
+                                        "external_reference": "1210",
+                                        "name": "CORBEIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "623c6ef3-d9a4-40cf-9c7f-551554853c56",
+                                        "type": "shop",
+                                        "external_reference": "1479",
+                                        "name": "DRAVEIL EUROPE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "386f9002-6123-4520-bf80-5d5db9301b0c",
+                                        "type": "shop",
+                                        "external_reference": "1318",
+                                        "name": "ETAMPES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4acaa7c5-ce7e-4fc3-9bc9-f42e58a3906e",
+                                        "type": "shop",
+                                        "external_reference": "1228",
+                                        "name": "EVRY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5f8aaca9-99e9-4c27-a340-5aacec2527de",
+                                        "type": "shop",
+                                        "external_reference": "1435",
+                                        "name": "LAGNY SUR MARNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6a200ff7-b1f4-4a6d-8e40-959350c48150",
+                                        "type": "shop",
+                                        "external_reference": "1372",
+                                        "name": "MAISONS ALFORT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9d300d02-6703-45c5-84b1-c80fae24e064",
+                                        "type": "shop",
+                                        "external_reference": "1094",
+                                        "name": "MELUN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "45b22e1b-0121-4b54-bc9c-c27b5c5c3449",
+                                        "type": "shop",
+                                        "external_reference": "1500",
+                                        "name": "MENNECY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8d33db79-42bb-4b51-814c-a997e2c91db3",
+                                        "type": "shop",
+                                        "external_reference": "1512",
+                                        "name": "NANGIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bb6baf8e-6f45-4597-b678-205788c4b28e",
+                                        "type": "shop",
+                                        "external_reference": "1289",
+                                        "name": "PARIS 04 - CELESTINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f6200593-e64c-4a86-96d4-01f59043d13d",
+                                        "type": "shop",
+                                        "external_reference": "1513",
+                                        "name": "PONTAULT COMBAULT DAUTRY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "40048679-f415-4620-b8ee-ca4f221d7d12",
+                                        "type": "shop",
+                                        "external_reference": "1481",
+                                        "name": "PROVINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3b89b577-aa70-43be-87c6-366d92f25766",
+                                        "type": "shop",
+                                        "external_reference": "1555",
+                                        "name": "ROISSY EN BRIE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "482dcbb6-2d28-4516-82d3-0d702cb83211",
+                                        "type": "shop",
+                                        "external_reference": "1570",
+                                        "name": "SUCY EN BRIE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2ddfeb52-d807-4732-b8e8-0977a536a880",
+                                        "type": "shop",
+                                        "external_reference": "1450",
+                                        "name": "VARENNES MONTEREAU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ee167ba0-119c-4af1-8fb2-96bf72a41b74",
+                                        "type": "shop",
+                                        "external_reference": "1594",
+                                        "name": "VILLEJUIF",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6a32a093-79ee-4df0-9379-49e84f17e757",
+                                        "type": "shop",
+                                        "external_reference": "1042",
+                                        "name": "VILLEMOISSON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "65190c94-eac3-4170-a6a0-91e46f6d1b3b",
+                                        "type": "shop",
+                                        "external_reference": "1503",
+                                        "name": "VIRY CHATILLON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "7f85cc57-a90e-4c8a-9c52-ea69d9ab4260",
+                                "type": "group",
+                                "external_reference": "Z12",
+                                "name": "Z12 - IDF-Paris Ouest",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "a606cb65-fdc9-41f0-a592-81d0ebf54b68",
+                                        "type": "shop",
+                                        "external_reference": "1098",
+                                        "name": "ANTONY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8ba00eec-1d6b-4639-bf1a-1a8d12bfd9bc",
+                                        "type": "shop",
+                                        "external_reference": "1055",
+                                        "name": "AUBERVILLIERS PANTIN JAURES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "81dcaee0-c3a7-4a5b-9786-f26ab8032957",
+                                        "type": "shop",
+                                        "external_reference": "1216",
+                                        "name": "CACHAN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "21478fe3-20fc-4452-a46f-3071c8bf299e",
+                                        "type": "shop",
+                                        "external_reference": "1059",
+                                        "name": "CHAVILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a770c9f6-d06c-475a-9527-7c59bb73e18b",
+                                        "type": "shop",
+                                        "external_reference": "1285",
+                                        "name": "COIGNIERES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "19e99bfe-f3be-4692-bc09-e95a30f11058",
+                                        "type": "shop",
+                                        "external_reference": "1249",
+                                        "name": "COLOMBES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "22dfc100-7016-4a3a-8e36-6209ee7a2f9f",
+                                        "type": "shop",
+                                        "external_reference": "1582",
+                                        "name": "FLINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8c1cbb2f-0353-43d2-a47e-82cca8226734",
+                                        "type": "shop",
+                                        "external_reference": "1544",
+                                        "name": "HERBLAY ROUTE DE CONFLANS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "01edb341-cd33-4968-9e70-f2d728a254ff",
+                                        "type": "shop",
+                                        "external_reference": "1599",
+                                        "name": "ISSY LES MOULINEAUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a86762c7-f889-4e4f-8cad-7971cf9fd4fc",
+                                        "type": "shop",
+                                        "external_reference": "1351",
+                                        "name": "LA GARENNE COLOMBES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a5b08dda-0d78-4738-8f82-e3d30006b153",
+                                        "type": "shop",
+                                        "external_reference": "1585",
+                                        "name": "LE VESINET",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "930d687c-c059-4aa7-a462-d8c6e9f30017",
+                                        "type": "shop",
+                                        "external_reference": "1118",
+                                        "name": "LES MUREAUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "d52ad958-43dd-4971-ae9c-ce7c3f8a91d4",
+                                        "type": "shop",
+                                        "external_reference": "1377",
+                                        "name": "LEVALLOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2d7c2b31-8e97-4b4b-9813-7090c6ea7e2c",
+                                        "type": "shop",
+                                        "external_reference": "1445",
+                                        "name": "MAISONS LAFFITTE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7eaef7e6-1428-4691-acfd-ab16545319a9",
+                                        "type": "shop",
+                                        "external_reference": "1016",
+                                        "name": "MALAKOFF",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "88e277d3-c589-4c6b-b93c-02f0d7c81532",
+                                        "type": "shop",
+                                        "external_reference": "1491",
+                                        "name": "MANTES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "402d3a33-7771-48c7-a823-030f36335e2b",
+                                        "type": "shop",
+                                        "external_reference": "1506",
+                                        "name": "MERE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "db463769-579b-480f-967a-efb54bc93063",
+                                        "type": "shop",
+                                        "external_reference": "1282",
+                                        "name": "MONTIGNY LE BRETONNEUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ef6961bd-55cf-4a89-a675-7a96fd757d4d",
+                                        "type": "shop",
+                                        "external_reference": "1144",
+                                        "name": "PALAISEAU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9d13acd1-2358-459c-a639-2dafb3f823e1",
+                                        "type": "shop",
+                                        "external_reference": "1148",
+                                        "name": "PARIS 16 - PASSY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e451eda9-bd3d-4424-80cc-897ba0cc1ec2",
+                                        "type": "shop",
+                                        "external_reference": "1135",
+                                        "name": "PARIS 17 - RUE DE ROME",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "353aae5c-b203-4bd2-9221-bbda76f8e326",
+                                        "type": "shop",
+                                        "external_reference": "1230",
+                                        "name": "PARIS 18 - LA CHAPELLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0ebb11ef-ab8d-4f05-a43c-1c3aab9edc9e",
+                                        "type": "shop",
+                                        "external_reference": "1078",
+                                        "name": "PARIS 18 - LA FOURCHE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4b7a469b-8765-4d2e-8551-53c386269166",
+                                        "type": "shop",
+                                        "external_reference": "1360",
+                                        "name": "PLAISIR",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7e2b4429-1fbe-45ec-9325-f5dd7a903cbd",
+                                        "type": "shop",
+                                        "external_reference": "1571",
+                                        "name": "RUEIL MALMAISON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "694f0fba-c67c-4152-a2b1-28484800586b",
+                                        "type": "shop",
+                                        "external_reference": "1044",
+                                        "name": "SAINT CYR",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "dbaeac86-c537-4c3b-8828-fa23fff35460",
+                                        "type": "shop",
+                                        "external_reference": "1261",
+                                        "name": "SARTROUVILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e98e2d2d-870e-4bb3-9cbd-3005542262f5",
+                                        "type": "shop",
+                                        "external_reference": "1596",
+                                        "name": "SAULX LES CHARTREUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0cf77f60-b2e9-46ad-95fa-eb76e0e4696f",
+                                        "type": "shop",
+                                        "external_reference": "1061",
+                                        "name": "VERSAILLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "a144fe36-25b8-4140-9e72-dce4e57e64df",
+                                "type": "group",
+                                "external_reference": "Z13",
+                                "name": "Z13 - Nord-Sud",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "15446c99-597d-4edc-bf7c-eeb539ed6e3c",
+                                        "type": "shop",
+                                        "external_reference": "1600",
+                                        "name": "ALBERT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c5d0eb15-b7b9-4fd4-94c3-17965bf02e26",
+                                        "type": "shop",
+                                        "external_reference": "1590",
+                                        "name": "ARQUES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a5eb2830-7d5b-4cfd-8c0c-fea9ee5cf06c",
+                                        "type": "shop",
+                                        "external_reference": "1499",
+                                        "name": "BAPAUME",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "efabd1d1-f2cf-4a75-bdda-8062aa08c97e",
+                                        "type": "shop",
+                                        "external_reference": "1146",
+                                        "name": "BOULOGNE SUR MER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f93c1790-9b53-45b5-938d-b748163cfc4c",
+                                        "type": "shop",
+                                        "external_reference": "1165",
+                                        "name": "CALAIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6fedaf56-cc41-4b1c-8704-9ed7348ab804",
+                                        "type": "shop",
+                                        "external_reference": "1534",
+                                        "name": "CAUDRY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4d1ba75e-1bee-4586-b9f9-77a51226fcf3",
+                                        "type": "shop",
+                                        "external_reference": "1505",
+                                        "name": "CHÂTEAU THIERRY ESSOMES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b9cd995b-9ee9-4a84-afb6-fd5bac1345ff",
+                                        "type": "shop",
+                                        "external_reference": "1380",
+                                        "name": "COMPIEGNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9ea78251-92fa-4d52-9bc1-bdf3eb891183",
+                                        "type": "shop",
+                                        "external_reference": "1446",
+                                        "name": "CONDE SUR L'ESCAUT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "924d3fd5-bc4d-41bd-9f68-63106353d3d8",
+                                        "type": "shop",
+                                        "external_reference": "1456",
+                                        "name": "CREPY EN VALOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "16a1c2ca-0cbd-4e54-87da-e2d537b30e8e",
+                                        "type": "shop",
+                                        "external_reference": "1541",
+                                        "name": "HAUTMONT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a5b29e37-bc69-4464-87ee-baf63ae216bc",
+                                        "type": "shop",
+                                        "external_reference": "1517",
+                                        "name": "LAON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "fba5dd4c-6ad0-467c-bdb4-9004f928dbd1",
+                                        "type": "shop",
+                                        "external_reference": "1597",
+                                        "name": "LUMBRES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "d89443d8-c86b-4057-93c5-b4d48d7d8366",
+                                        "type": "shop",
+                                        "external_reference": "1480",
+                                        "name": "MARLY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "254cc99c-a3a1-43e8-9c4f-ea868ab5111c",
+                                        "type": "shop",
+                                        "external_reference": "1208",
+                                        "name": "MAUBEUGE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6aba3ef8-613c-4f8a-8f8f-f05f6173cba2",
+                                        "type": "shop",
+                                        "external_reference": "1580",
+                                        "name": "MERLIMONT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "dd2f3464-3285-49fd-a201-4b0765a71236",
+                                        "type": "shop",
+                                        "external_reference": "1178",
+                                        "name": "NOGENT SUR OISE CREIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c1b4de04-7d3c-490f-9870-94cecd8a80cd",
+                                        "type": "shop",
+                                        "external_reference": "1528",
+                                        "name": "NOYON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e50c31eb-871f-4734-a087-166584ab3390",
+                                        "type": "shop",
+                                        "external_reference": "1536",
+                                        "name": "PERONNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "69dcf82b-52d0-4db5-898d-3b47dceb4a92",
+                                        "type": "shop",
+                                        "external_reference": "1522",
+                                        "name": "PONT SAINTE MAXENCE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3576acb3-3ffa-4ad4-b500-fdbdca0e2c3e",
+                                        "type": "shop",
+                                        "external_reference": "1509",
+                                        "name": "QUIEVRECHAIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e0d8abce-12ef-48a5-90ff-aabdbabece87",
+                                        "type": "shop",
+                                        "external_reference": "1207",
+                                        "name": "SAINT OMER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0f2f1285-0373-4dfd-9efa-aa68b3323b0b",
+                                        "type": "shop",
+                                        "external_reference": "1128",
+                                        "name": "SAINT QUENTIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f3a59b50-fd23-47a7-ba57-eba0971c94f6",
+                                        "type": "shop",
+                                        "external_reference": "1543",
+                                        "name": "SENLIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2348c360-d785-429e-93f3-a2ec59a9efa0",
+                                        "type": "shop",
+                                        "external_reference": "1137",
+                                        "name": "SOISSONS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b2f2cf8f-e715-428a-9bb1-d158d7d53dbf",
+                                        "type": "shop",
+                                        "external_reference": "1485",
+                                        "name": "VIRY NOUREUIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8cc016a6-89c9-4ff1-b0d1-bbf2b7f4b9c8",
+                                "type": "group",
+                                "external_reference": "Z14",
+                                "name": "Z14 - Nord",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "78995b21-9f1d-41eb-9b23-1d840c1d2248",
+                                        "type": "shop",
+                                        "external_reference": "1603",
+                                        "name": "ARMENTIERES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "55cef82f-a388-4556-bbfc-8025bdbf7198",
+                                        "type": "shop",
+                                        "external_reference": "1297",
+                                        "name": "ARRAS CHURCHILL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "914f76ef-b752-4012-ad93-0836a958dd76",
+                                        "type": "shop",
+                                        "external_reference": "1079",
+                                        "name": "ARRAS FAIDHERBE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0d54486f-6c2b-4d97-8162-960b6feb075c",
+                                        "type": "shop",
+                                        "external_reference": "1159",
+                                        "name": "BETHUNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1c7da819-7a79-4a9f-ae6a-d51e4acb0b12",
+                                        "type": "shop",
+                                        "external_reference": "1384",
+                                        "name": "BRUAY LA BUISSIERE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ad3f9ce9-f9b9-47eb-95e4-e15c47f70cd3",
+                                        "type": "shop",
+                                        "external_reference": "1539",
+                                        "name": "COQUELLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3cdcc6b9-705a-4fdf-8c2e-340050c05d29",
+                                        "type": "shop",
+                                        "external_reference": "1537",
+                                        "name": "CROIX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3882e433-428e-4f11-942b-0424f7946e92",
+                                        "type": "shop",
+                                        "external_reference": "1123",
+                                        "name": "DOUAI - DECHY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e687199f-ccf9-4139-b086-474de2d3cd1d",
+                                        "type": "shop",
+                                        "external_reference": "1508",
+                                        "name": "DUNKERQUE - SAINT POL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9ca85734-4b0d-49ab-9641-9f4838b9175b",
+                                        "type": "shop",
+                                        "external_reference": "1572",
+                                        "name": "ESTAIRES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a539db6e-55a9-4495-aed7-32221b295a9a",
+                                        "type": "shop",
+                                        "external_reference": "1545",
+                                        "name": "HALLUIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5a802c83-4b85-4568-9849-24d962f86f20",
+                                        "type": "shop",
+                                        "external_reference": "1495",
+                                        "name": "HAZEBROUCK",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f69f2aff-b7b7-4e4b-bf29-f0fac92aefbf",
+                                        "type": "shop",
+                                        "external_reference": "1558",
+                                        "name": "HERSIN COUPIGNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "69b38198-d178-44c4-bc3a-b0c97ae09756",
+                                        "type": "shop",
+                                        "external_reference": "1487",
+                                        "name": "LA BASSEE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c38d0bb2-2ae9-457a-b836-42c4dda97fb6",
+                                        "type": "shop",
+                                        "external_reference": "1524",
+                                        "name": "LEERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e1cc095b-2fe4-4e38-9230-73fc1bfb0c58",
+                                        "type": "shop",
+                                        "external_reference": "1136",
+                                        "name": "LENS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "505806a8-bc3e-4a6f-94ab-7104e90d0714",
+                                        "type": "shop",
+                                        "external_reference": "1583",
+                                        "name": "LILLERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e39ea544-9ecd-45fe-a355-e03948b5117a",
+                                        "type": "shop",
+                                        "external_reference": "1019",
+                                        "name": "MARCQ EN BAROEUL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "33aa391f-bcda-4876-bec9-ffd2de3bdba3",
+                                        "type": "shop",
+                                        "external_reference": "1502",
+                                        "name": "NOEUX LES MINES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f0a699bf-85cb-41bd-9768-b40ce2a822da",
+                                        "type": "shop",
+                                        "external_reference": "1333",
+                                        "name": "NOYELLES GODAULT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ee632eb7-054b-4306-849c-12d306b5b606",
+                                        "type": "shop",
+                                        "external_reference": "1476",
+                                        "name": "ORCHIES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9584c2be-3033-41c4-ba08-470c1a6bf199",
+                                        "type": "shop",
+                                        "external_reference": "1533",
+                                        "name": "SAINT AMAND LES EAUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "76db9a48-8601-4eb3-90d8-8be3bb2c8c28",
+                                        "type": "shop",
+                                        "external_reference": "1575",
+                                        "name": "SAINT ANDRE LEZ LILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f6c90541-0b61-4f9a-a0b0-19dfda006bca",
+                                        "type": "shop",
+                                        "external_reference": "1486",
+                                        "name": "SECLIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3308d05a-0de6-4eab-bd6f-71ed039c896f",
+                                        "type": "shop",
+                                        "external_reference": "TONI",
+                                        "name": "TEST LILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2e1ac393-2b6a-4255-be66-3a46227faf33",
+                                        "type": "shop",
+                                        "external_reference": "1466",
+                                        "name": "WATTRELOS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "68d9ff45-e692-4c24-b574-ddf54fc9637f",
+                                "type": "group",
+                                "external_reference": "Z15",
+                                "name": "Z15 - Ouest-Nord",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "a55e3596-26c9-4e3c-a4bf-33057cc4bbf8",
+                                        "type": "shop",
+                                        "external_reference": "1328",
+                                        "name": "AMIENS OUEST",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ae13859c-8a05-443b-b3f4-9bb3adfd871a",
+                                        "type": "shop",
+                                        "external_reference": "1190",
+                                        "name": "BEAUVAIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "82baea50-5a72-4c9b-929e-410c8cf87322",
+                                        "type": "shop",
+                                        "external_reference": "1523",
+                                        "name": "BEAUVAIS CENTRE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c0e34ff9-18dd-4d95-92e2-955dbd8d9f3c",
+                                        "type": "shop",
+                                        "external_reference": "1224",
+                                        "name": "CAEN BLD GUILLOU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "857aee88-afa3-47f3-bf60-8d71494f8b83",
+                                        "type": "shop",
+                                        "external_reference": "1310",
+                                        "name": "CAEN LA DEMI LUNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3cca5fc2-e832-4fa1-9740-923ad4fc9155",
+                                        "type": "shop",
+                                        "external_reference": "1455",
+                                        "name": "CHAMBLY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3f8446ff-e137-4fb1-a51f-3f241574f728",
+                                        "type": "shop",
+                                        "external_reference": "1141",
+                                        "name": "CHARTRES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "246d32b0-8fdd-49c8-af91-928a7e2daa80",
+                                        "type": "shop",
+                                        "external_reference": "1563",
+                                        "name": "CHATEAUDUN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cc9506d9-7599-4145-a05d-fbc0e629b46f",
+                                        "type": "shop",
+                                        "external_reference": "1225",
+                                        "name": "DIEPPE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bf958e94-cd7c-4fb0-badb-2ada741fa22a",
+                                        "type": "shop",
+                                        "external_reference": "1562",
+                                        "name": "DIVES SUR MER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "509d0479-34a1-48e4-8430-f776f1ce5921",
+                                        "type": "shop",
+                                        "external_reference": "1577",
+                                        "name": "EVREUX GRAVIGNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5e3d2253-31f5-43a1-9d2a-3c41f86a6e1f",
+                                        "type": "shop",
+                                        "external_reference": "1461",
+                                        "name": "FRANQUEVILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6533b5e2-4c5b-4945-9f3c-c45604a17629",
+                                        "type": "shop",
+                                        "external_reference": "1477",
+                                        "name": "GRUCHET LE VALASSE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3193ae73-7d8b-4b12-844b-eef3422ecbc4",
+                                        "type": "shop",
+                                        "external_reference": "1076",
+                                        "name": "LE HAVRE PLAGE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8434131a-ba70-4772-9884-2320fd4db10b",
+                                        "type": "shop",
+                                        "external_reference": "1493",
+                                        "name": "LISIEUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1796671d-8dbc-41eb-941f-7a4461534068",
+                                        "type": "shop",
+                                        "external_reference": "1520",
+                                        "name": "OUISTREHAM",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7c9db148-5eeb-45b7-99a6-e9fb2c2aca5c",
+                                        "type": "shop",
+                                        "external_reference": "1089",
+                                        "name": "ROUEN AVE CAEN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a6a268da-9868-4e6a-b6e7-f08fc61d7371",
+                                        "type": "shop",
+                                        "external_reference": "1375",
+                                        "name": "ROUEN BARENTIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2a95b4eb-078e-44d5-ad62-2f9de5d7a225",
+                                        "type": "shop",
+                                        "external_reference": "1338",
+                                        "name": "ROUEN TOURVILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "37f9a7f9-48e5-434f-9757-99e4d59a853b",
+                                "type": "group",
+                                "external_reference": "Z16",
+                                "name": "Z16 - Ouest",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "3797b0a2-83a1-4c66-96f8-2236c02d57cd",
+                                        "type": "shop",
+                                        "external_reference": "1497",
+                                        "name": "AURAY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9061a304-50ab-4010-addc-8f776d8a79fc",
+                                        "type": "shop",
+                                        "external_reference": "1510",
+                                        "name": "AVRANCHES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "652d0dc6-bf10-4fea-83ee-11b4e15f9640",
+                                        "type": "shop",
+                                        "external_reference": "1557",
+                                        "name": "BOUFFÉRÉ",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6f8546c4-1a8d-4f11-97f2-7c020cae4b86",
+                                        "type": "shop",
+                                        "external_reference": "1193",
+                                        "name": "CHERBOURG",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "105faed1-ffe6-4ad9-b7b5-1ece9846404c",
+                                        "type": "shop",
+                                        "external_reference": "1404",
+                                        "name": "COUTANCES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7d11115b-56fd-41c8-a789-4e68a63c2671",
+                                        "type": "shop",
+                                        "external_reference": "1584",
+                                        "name": "LANNION",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "dd76f6bc-34af-455c-94c9-c48d13b1b806",
+                                        "type": "shop",
+                                        "external_reference": "1241",
+                                        "name": "LE MANS LA CHAPELLE ST AUBIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "edbc4e18-cfe3-486f-ab1a-161c09fd7639",
+                                        "type": "shop",
+                                        "external_reference": "1134",
+                                        "name": "LORIENT CHAZELLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "aa4a5f82-e2b3-4111-a91d-30272a89828a",
+                                        "type": "shop",
+                                        "external_reference": "1085",
+                                        "name": "NANTES REZE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7ef317e1-4884-4969-a1a9-02464e3b4013",
+                                        "type": "shop",
+                                        "external_reference": "1033",
+                                        "name": "NANTES SCHUMAN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2d9db088-c49c-4632-a687-2c64d9a5fbd7",
+                                        "type": "shop",
+                                        "external_reference": "1268",
+                                        "name": "NANTES TERTRE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "438ff214-3413-498f-a239-701437ccb709",
+                                        "type": "shop",
+                                        "external_reference": "1566",
+                                        "name": "PONT LABBE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "afc694b1-2a63-462f-8a26-5fa6352c9ddd",
+                                        "type": "shop",
+                                        "external_reference": "1549",
+                                        "name": "QUIMPER ROUTE DE CORAY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "72c2768f-eec7-4b0e-a416-6b7c6eb0cc82",
+                                        "type": "shop",
+                                        "external_reference": "1589",
+                                        "name": "RENNES ROUTE DE LORIENT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8daa4fef-cb22-4880-a360-8e68d6c5945a",
+                                        "type": "shop",
+                                        "external_reference": "1077",
+                                        "name": "RENNES RUE DE NANTES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "48335b87-b53d-46db-9314-0172d419cec3",
+                                        "type": "shop",
+                                        "external_reference": "1531",
+                                        "name": "SAINT BREVIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b8c9cd2e-883f-4ef3-8506-f7456969e75d",
+                                        "type": "shop",
+                                        "external_reference": "1483",
+                                        "name": "SAINT BRIEUC",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "653e8292-b06e-479a-8509-1e5ecd092fe9",
+                                        "type": "shop",
+                                        "external_reference": "1032",
+                                        "name": "SAINT MALO",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "d7b5da13-9b01-429e-944c-cfabe99e8674",
+                                        "type": "shop",
+                                        "external_reference": "1179",
+                                        "name": "SAINT NAZAIRE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "913d5f0e-3564-4acc-9207-23d581cc188b",
+                                        "type": "shop",
+                                        "external_reference": "1478",
+                                        "name": "SAINTE LUCE SUR LOIRE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "05fbf8a8-5bab-422a-a05c-3c02a680b411",
+                                        "type": "shop",
+                                        "external_reference": "1149",
+                                        "name": "VANNES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "77d7d854-0f80-4f82-a90d-a2dc76fb55b0",
+                                "type": "group",
+                                "external_reference": "Z20",
+                                "name": "Z20 - Ouest-Nord",
+                                "model_code": "SECTOR",
+                                "children": []
+                            },
+                            {
+                                "id": "40f7ed63-5a13-44ca-9fa9-09c8a30f6b0e",
+                                "type": "group",
+                                "external_reference": "Z22",
+                                "name": "Z22 - Ouest",
+                                "model_code": "SECTOR",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6af3969c-959f-4023-aaab-36b2c1beb68b",
+                        "type": "group",
+                        "external_reference": "Z3",
+                        "name": "Z3 - SUD & EST",
+                        "model_code": "AREA",
+                        "children": [
+                            {
+                                "id": "fde8cefb-c584-4987-b1be-203d6fdd7830",
+                                "type": "group",
+                                "external_reference": "Z21",
+                                "name": "Z21 - Centre-Est",
+                                "model_code": "SECTOR",
+                                "children": []
+                            },
+                            {
+                                "id": "536a5fbc-a56e-4786-89fd-38fc6eeaba9f",
+                                "type": "group",
+                                "external_reference": "Z23",
+                                "name": "Z23 - Ouest-Auvergne",
+                                "model_code": "SECTOR",
+                                "children": []
+                            },
+                            {
+                                "id": "67085687-c17b-4efc-a54f-673b131dd1a3",
+                                "type": "group",
+                                "external_reference": "Z30",
+                                "name": "Z30 - Rhône Alpes",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "ecd5511e-ff06-471c-b0fc-b44dd6729779",
+                                        "type": "shop",
+                                        "external_reference": "1413",
+                                        "name": "AIX LES BAINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "016013a2-6927-48a3-8d5c-8ed1ca91b4de",
+                                        "type": "shop",
+                                        "external_reference": "1366",
+                                        "name": "ALBERTVILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ba7ca93a-cd6c-4919-8273-b38c20cf8c8c",
+                                        "type": "shop",
+                                        "external_reference": "1182",
+                                        "name": "ANNECY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a7146dfb-3f12-4325-b895-f682a3244e6d",
+                                        "type": "shop",
+                                        "external_reference": "1062",
+                                        "name": "BESANCON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "49d3fd8b-e012-4532-87ef-dfa09df4e79f",
+                                        "type": "shop",
+                                        "external_reference": "1227",
+                                        "name": "BOURG EN BRESSE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5c1cfd0b-28a6-4171-9ecb-d74889757df8",
+                                        "type": "shop",
+                                        "external_reference": "1183",
+                                        "name": "BOURGOIN JALLIEU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a396e08b-90a1-438c-ba0d-08a7b719ebfe",
+                                        "type": "shop",
+                                        "external_reference": "1548",
+                                        "name": "CALUIRE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ffd76e0a-9042-42b1-a250-ed307eb24ab2",
+                                        "type": "shop",
+                                        "external_reference": "1588",
+                                        "name": "CHALEZEULE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8f0c2a85-b230-4634-96c2-546dd6a32c00",
+                                        "type": "shop",
+                                        "external_reference": "1186",
+                                        "name": "CHAMBERY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "afe0c910-dcdc-4f5e-beba-c60c5c90f972",
+                                        "type": "shop",
+                                        "external_reference": "1222",
+                                        "name": "DOLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a0d83eb0-c159-4265-a781-80d6577b4b0e",
+                                        "type": "shop",
+                                        "external_reference": "1316",
+                                        "name": "EPAGNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b1edecad-b56b-4a21-be86-ec61bbc7ed43",
+                                        "type": "shop",
+                                        "external_reference": "1156",
+                                        "name": "LONS LE SAUNIER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a909a7e6-07f3-4b41-8369-108e77ad027f",
+                                        "type": "shop",
+                                        "external_reference": "1181",
+                                        "name": "LYON DECINES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "430be8fe-399d-48c0-9255-bf9cf998a3af",
+                                        "type": "shop",
+                                        "external_reference": "1111",
+                                        "name": "LYON GARIBALDI",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "246c552b-9f6d-4218-97dd-eacee5dd0275",
+                                        "type": "shop",
+                                        "external_reference": "1322",
+                                        "name": "LYON GERLAND",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "011294dc-4c97-4369-bde4-e5e9a00f0f01",
+                                        "type": "shop",
+                                        "external_reference": "1170",
+                                        "name": "MACON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4ac9ae54-0a15-453d-b46c-9e6124fb115c",
+                                        "type": "shop",
+                                        "external_reference": "1573",
+                                        "name": "MEXIMIEUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "946e6e29-dc42-4fd4-b450-223bc8422cd1",
+                                        "type": "shop",
+                                        "external_reference": "1213",
+                                        "name": "OULLINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e5675cce-247a-46ca-b7ef-db28ab153e62",
+                                        "type": "shop",
+                                        "external_reference": "1440",
+                                        "name": "OYONNAX ARBENT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "193d3eb4-a514-4422-b9b8-234225d9993b",
+                                        "type": "shop",
+                                        "external_reference": "1378",
+                                        "name": "PONTARLIER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "82d91899-1966-4913-af85-272a43d115b9",
+                                        "type": "shop",
+                                        "external_reference": "1447",
+                                        "name": "SAINT PRIEST",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a95c2aaa-64e5-4ad9-97d1-6511c515c515",
+                                        "type": "shop",
+                                        "external_reference": "1276",
+                                        "name": "TASSIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "fcdae3ee-d198-49d2-b48b-0a04adc02eb8",
+                                        "type": "shop",
+                                        "external_reference": "1542",
+                                        "name": "THôNES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "331f03ae-5758-49c6-9de7-92791e09aa82",
+                                        "type": "shop",
+                                        "external_reference": "1547",
+                                        "name": "TIGNIEU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "33b73325-741c-4644-b6c0-60b06e7e715b",
+                                        "type": "shop",
+                                        "external_reference": "1049",
+                                        "name": "VILLEURBANNE ZOLA",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "3f74d9ae-d8b8-4fdc-a659-7c0cb830e59d",
+                                "type": "group",
+                                "external_reference": "Z31",
+                                "name": "Z31 - Centre Nord",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "9f7bd38c-a5de-45a6-afc9-7906fd8a22bf",
+                                        "type": "shop",
+                                        "external_reference": "1532",
+                                        "name": "CHALONS EN CHAMPAGNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cbbd8c94-18de-4636-bbe3-00a3f50183c0",
+                                        "type": "shop",
+                                        "external_reference": "1591",
+                                        "name": "CHECY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b8db6f9a-fc8c-4094-8231-96e3d9e658a4",
+                                        "type": "shop",
+                                        "external_reference": "1470",
+                                        "name": "CORMONTREUIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "d165a9d1-08ab-41ce-b412-80c75f521e28",
+                                        "type": "shop",
+                                        "external_reference": "1406",
+                                        "name": "EPERNAY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "039ab6da-21c1-47c3-a77a-090bd74143a9",
+                                        "type": "shop",
+                                        "external_reference": "1556",
+                                        "name": "JOUY-AUX-ARCHES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "259830e9-9232-497a-87bb-033bf65c173d",
+                                        "type": "shop",
+                                        "external_reference": "1552",
+                                        "name": "LONGWY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "779d2867-3fb5-469e-9069-a4a97d498306",
+                                        "type": "shop",
+                                        "external_reference": "1197",
+                                        "name": "METZ AVE FOCH",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "33054f83-cffd-4ad8-80d1-a90d40631ff6",
+                                        "type": "shop",
+                                        "external_reference": "1342",
+                                        "name": "NANCY FROUARD",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0a806f3b-e76a-44e6-b17c-fa7392d03fc0",
+                                        "type": "shop",
+                                        "external_reference": "1041",
+                                        "name": "NANCY LIBERATION",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "332fef5c-382a-42a1-a996-0769212f8d52",
+                                        "type": "shop",
+                                        "external_reference": "1018",
+                                        "name": "NANCY LOBAU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "02c42dc4-5368-46c1-9c7c-1ee47246df03",
+                                        "type": "shop",
+                                        "external_reference": "1263",
+                                        "name": "NANCY VANDOEUVRE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "74a22a0a-fc8e-4740-b601-e87d637c5956",
+                                        "type": "shop",
+                                        "external_reference": "1073",
+                                        "name": "ORLEANS GARE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a3edfbc5-d89a-4aeb-8f03-8fdba34fa36b",
+                                        "type": "shop",
+                                        "external_reference": "1200",
+                                        "name": "ORLEANS SUD",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "79b0e860-a29a-43ea-abd8-eb31aedd7e64",
+                                        "type": "shop",
+                                        "external_reference": "1308",
+                                        "name": "REIMS POMMERY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9f73da15-9032-4e11-91a4-7ff53c74e4a0",
+                                        "type": "shop",
+                                        "external_reference": "1535",
+                                        "name": "SENS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ed2fc690-c81b-44be-8267-6313a2bae767",
+                                        "type": "shop",
+                                        "external_reference": "1521",
+                                        "name": "TAVERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "05c3dfca-d7dd-4cd2-bade-1aae38bb38eb",
+                                        "type": "shop",
+                                        "external_reference": "1195",
+                                        "name": "THIONVILLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3c59320c-2708-42df-9759-af538ab74e4d",
+                                        "type": "shop",
+                                        "external_reference": "1546",
+                                        "name": "TINQUEUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ed6d6f75-a5c6-4e77-b6eb-5d3f7560cbe7",
+                                        "type": "shop",
+                                        "external_reference": "1138",
+                                        "name": "TROYES BROSSOLETTE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "97b08701-a7a0-4181-88ab-202d6ceab773",
+                                        "type": "shop",
+                                        "external_reference": "1088",
+                                        "name": "TROYES VICTOR  HUGO",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "812b46e0-9fc0-4451-8a64-e02f329b8469",
+                                "type": "group",
+                                "external_reference": "Z32",
+                                "name": "Z32 - Sud-Est",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "4501e776-c7bd-4819-9a99-4e6b088f0959",
+                                        "type": "shop",
+                                        "external_reference": "1299",
+                                        "name": "AUBAGNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "85eb5edc-153f-44e3-8860-d91a6e309bc8",
+                                        "type": "shop",
+                                        "external_reference": "1196",
+                                        "name": "BASTIA",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0e76b082-5193-4ff8-b257-d64383c170cc",
+                                        "type": "shop",
+                                        "external_reference": "1300",
+                                        "name": "CAGNES SUR MER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ca7e9307-6111-425e-b2ee-0206dde5cb1b",
+                                        "type": "shop",
+                                        "external_reference": "1270",
+                                        "name": "CANNES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "416f8702-e020-4018-b13b-c363118c9539",
+                                        "type": "shop",
+                                        "external_reference": "1361",
+                                        "name": "DRAGUIGNAN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3ad6b746-ef9b-4ad4-9c08-7cbe9af815fc",
+                                        "type": "shop",
+                                        "external_reference": "1354",
+                                        "name": "GOLFE JUAN VALLAURIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "43db5397-faaf-4bdf-b7d6-37f29cafa589",
+                                        "type": "shop",
+                                        "external_reference": "1269",
+                                        "name": "GRASSE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c0e7ec0a-9409-40a4-973d-d96c7895e54b",
+                                        "type": "shop",
+                                        "external_reference": "1264",
+                                        "name": "HYERES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "59cdf25a-6c4e-40a8-a3d9-60f6a4eae33e",
+                                        "type": "shop",
+                                        "external_reference": "1530",
+                                        "name": "LA GAUDE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "fd743ae2-c54f-4709-a25e-6ccd15076007",
+                                        "type": "shop",
+                                        "external_reference": "1569",
+                                        "name": "LA SEYNE SUR MER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9a23eee9-9aa2-4a07-8179-8be01d37cd9d",
+                                        "type": "shop",
+                                        "external_reference": "1568",
+                                        "name": "LE PRADET",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cbad0d6b-cd24-4726-8f98-c35a8432fedb",
+                                        "type": "shop",
+                                        "external_reference": "1278",
+                                        "name": "MARSEILLE BD JUIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "faf527a6-c628-4e2a-8595-6737feba9111",
+                                        "type": "shop",
+                                        "external_reference": "1155",
+                                        "name": "MARSEILLE LA VALENTINE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0c19b157-e088-4f3e-9142-c385c3260ea8",
+                                        "type": "shop",
+                                        "external_reference": "1045",
+                                        "name": "MARSEILLE SAKAKINI",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1b754670-daf8-48d8-9823-626d149fe58d",
+                                        "type": "shop",
+                                        "external_reference": "1255",
+                                        "name": "MARSEILLE TASSIGNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0db619f2-d0ea-47c5-a261-0e71d12f2516",
+                                        "type": "shop",
+                                        "external_reference": "1348",
+                                        "name": "MENTON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "30487435-9aa7-43a9-87b3-052c30c06914",
+                                        "type": "shop",
+                                        "external_reference": "1097",
+                                        "name": "NICE AEROPORT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "dc26ae12-cf9b-417b-a840-6a954211f9fa",
+                                        "type": "shop",
+                                        "external_reference": "1312",
+                                        "name": "NICE GAMBETTA",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "29ff20d3-68e5-4f10-8082-e465f7afcd99",
+                                        "type": "shop",
+                                        "external_reference": "1374",
+                                        "name": "NICE SAINT ISIDORE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7e90172a-9e60-4a8f-ab5a-9e3ea0433631",
+                                        "type": "shop",
+                                        "external_reference": "1576",
+                                        "name": "PEYMEINADE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "31a57c76-56ff-4431-80ab-aa532cf2afff",
+                                        "type": "shop",
+                                        "external_reference": "1492",
+                                        "name": "PLAN DE CUQUES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7c4269e6-d797-4762-bd60-9936fdb377b2",
+                                        "type": "shop",
+                                        "external_reference": "1187",
+                                        "name": "TOULON LA VALETTE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "abed4eb0-0e53-4fec-bf91-a2834aa591ec",
+                                "type": "group",
+                                "external_reference": "Z33",
+                                "name": "Z33 - Rhône Sud-Med Ouest",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "5d337cd0-0940-4cae-a0b6-09b9e86b8ca1",
+                                        "type": "shop",
+                                        "external_reference": "1381",
+                                        "name": "AIX LES MILLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "af77e3fa-a247-43bc-b33c-dbc080928e0b",
+                                        "type": "shop",
+                                        "external_reference": "1370",
+                                        "name": "ARLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1eb49296-43aa-41e8-83e6-2dad20561e9b",
+                                        "type": "shop",
+                                        "external_reference": "1394",
+                                        "name": "AUBENAS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c57e0065-a198-4241-9f97-ef29456d6aa6",
+                                        "type": "shop",
+                                        "external_reference": "1475",
+                                        "name": "CARCASSONNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f876dd75-3c60-4470-92b8-5a7c2a07f721",
+                                        "type": "shop",
+                                        "external_reference": "1515",
+                                        "name": "CARPENTRAS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "56f4ab19-d01d-4744-a1f2-39847c777e09",
+                                        "type": "shop",
+                                        "external_reference": "1303",
+                                        "name": "CASTELNAU LE LEZ",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bc555996-76c8-4e75-8720-a5d3f558c82f",
+                                        "type": "shop",
+                                        "external_reference": "1581",
+                                        "name": "GIGNAC",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0118943e-714d-44d0-8a4f-ef41ada43612",
+                                        "type": "shop",
+                                        "external_reference": "1399",
+                                        "name": "MANOSQUE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2f7174fd-ae34-4bf0-9367-32cda4554e4e",
+                                        "type": "shop",
+                                        "external_reference": "1438",
+                                        "name": "MARIGNANE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7b141540-3717-41a6-b48e-7bdf3d51f715",
+                                        "type": "shop",
+                                        "external_reference": "1140",
+                                        "name": "MONTELIMAR",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7dce1c1a-cded-417d-8034-11d1711ae1e0",
+                                        "type": "shop",
+                                        "external_reference": "1504",
+                                        "name": "MONTPELLIER GAROSUD",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "63b0a7e6-03fd-44d8-b63f-77265e00c0da",
+                                        "type": "shop",
+                                        "external_reference": "1317",
+                                        "name": "NARBONNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9ff05828-e132-48f8-a2c8-165b194cf380",
+                                        "type": "shop",
+                                        "external_reference": "1382",
+                                        "name": "NIMES ROND POINT DU FOUR A CHAUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "71dad26b-00eb-4482-be7a-5149fbad4249",
+                                        "type": "shop",
+                                        "external_reference": "1363",
+                                        "name": "ORANGE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0ab219e7-9c13-4368-9556-169ea3a92110",
+                                        "type": "shop",
+                                        "external_reference": "1579",
+                                        "name": "PEZENAS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f7a316a8-7a12-476b-8105-98aafa56e441",
+                                        "type": "shop",
+                                        "external_reference": "1373",
+                                        "name": "PLAN DE CAMPAGNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7487e9ed-9350-42bc-8894-209cd7e00b49",
+                                        "type": "shop",
+                                        "external_reference": "1602",
+                                        "name": "PORT DE BOUC",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ea74025f-f30a-4d36-9602-bb6eba642b0b",
+                                        "type": "shop",
+                                        "external_reference": "1092",
+                                        "name": "SAINT ETIENNE BERGSON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "07b1a231-8e2c-469f-8012-858cb200cc44",
+                                        "type": "shop",
+                                        "external_reference": "1163",
+                                        "name": "SAINT ETIENNE FAURIEL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5c815f23-3caf-442d-8064-291b80d221aa",
+                                        "type": "shop",
+                                        "external_reference": "1553",
+                                        "name": "SAINT ETIENNE MONTHIEU",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c10d8c58-3d03-445d-9822-e09e6693aedd",
+                                        "type": "shop",
+                                        "external_reference": "1305",
+                                        "name": "SALON DE PROVENCE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0f5dd668-744f-4018-8a45-6fd247510e76",
+                                        "type": "shop",
+                                        "external_reference": "1560",
+                                        "name": "VAUVERT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9f530835-b95a-4b73-b694-114b46f2c0f1",
+                                        "type": "shop",
+                                        "external_reference": "1025",
+                                        "name": "VITROLLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "a9952968-bf1e-4ea1-be58-08e706aa04a6",
+                                "type": "group",
+                                "external_reference": "Z34",
+                                "name": "Z34 - Sud-Ouest",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "2a10a270-8dea-4fcd-b7c8-532d210cb79d",
+                                        "type": "shop",
+                                        "external_reference": "1518",
+                                        "name": "ANGLET",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "422e9284-f0ba-4d4b-9f8f-a71d44d5d076",
+                                        "type": "shop",
+                                        "external_reference": "1188",
+                                        "name": "BORDEAUX BEGLES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a51a6734-15d8-4361-b41a-d9a5694fc8dc",
+                                        "type": "shop",
+                                        "external_reference": "1514",
+                                        "name": "CASTELSARRASIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "08ea381a-2cf8-4fb6-affc-8785a989266b",
+                                        "type": "shop",
+                                        "external_reference": "1526",
+                                        "name": "DAX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "50811ea7-ddeb-4a79-a9d5-8ca93d39c11c",
+                                        "type": "shop",
+                                        "external_reference": "1592",
+                                        "name": "FRONTON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "409e4052-20d1-43ca-b2f3-4add2c75dc3f",
+                                        "type": "shop",
+                                        "external_reference": "1574",
+                                        "name": "MONTAUBAN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7bbc77a6-5d92-4171-97be-2ab135d85b90",
+                                        "type": "shop",
+                                        "external_reference": "1578",
+                                        "name": "VILLEFRANCHE DE ROUERGUE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1f278c02-4a2f-4c8b-b9d7-4b772cc349d8",
+                                "type": "group",
+                                "external_reference": "Z35",
+                                "name": "Z35 - Centre-Est",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "83485126-b0dd-4a0e-b011-efee1957178d",
+                                        "type": "shop",
+                                        "external_reference": "1439",
+                                        "name": "ALTKIRCH",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6f63cf70-614f-41f5-9d1e-d523b5facab2",
+                                        "type": "shop",
+                                        "external_reference": "1529",
+                                        "name": "AUDINCOURT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7324c75d-e405-48e1-96b2-d5c47926cb2e",
+                                        "type": "shop",
+                                        "external_reference": "1302",
+                                        "name": "AVIA - DIJON PLACE DU 30 OCT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6498cd88-a18e-40c4-a17b-ad05eff6e319",
+                                        "type": "shop",
+                                        "external_reference": "1467",
+                                        "name": "BEAUNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a063ac86-ce78-4b6b-8180-3be01f8f69a9",
+                                        "type": "shop",
+                                        "external_reference": "1139",
+                                        "name": "BELFORT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1b29a5fa-b9e1-4a52-953f-1a0ced975d68",
+                                        "type": "shop",
+                                        "external_reference": "1116",
+                                        "name": "CHALON SUR SAONE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "122c3854-b703-418a-831f-fc584e9c972b",
+                                        "type": "shop",
+                                        "external_reference": "1494",
+                                        "name": "CHAUMONT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3086bfe2-b06d-4783-bfac-d96dd7850952",
+                                        "type": "shop",
+                                        "external_reference": "1586",
+                                        "name": "CHENOVE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "67ee0d0f-2b29-41ca-8ec8-1242bad8dda3",
+                                        "type": "shop",
+                                        "external_reference": "1260",
+                                        "name": "COLMAR",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "d2c4458c-b178-4c6b-a42e-d0cb558b5001",
+                                        "type": "shop",
+                                        "external_reference": "1482",
+                                        "name": "DIJON AUXONNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0f22a6e0-93a2-4230-9de4-1a46939428d9",
+                                        "type": "shop",
+                                        "external_reference": "1251",
+                                        "name": "DIJON DEVOSGE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8e1e3bb4-4b3a-4aae-9c45-c544bfa5e61c",
+                                        "type": "shop",
+                                        "external_reference": "1346",
+                                        "name": "DIJON QUETIGNY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4ed8be18-bbba-412e-b0a3-6bd679732083",
+                                        "type": "shop",
+                                        "external_reference": "1176",
+                                        "name": "EPINAL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5b5a6a74-3b57-4b9c-88f6-67052816632c",
+                                        "type": "shop",
+                                        "external_reference": "1218",
+                                        "name": "MONTCEAU LES MINES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8bc5c1ea-2b3f-44a3-b2a6-33f06740b2cd",
+                                        "type": "shop",
+                                        "external_reference": "1102",
+                                        "name": "MULHOUSE AVE COLMAR",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2461d9bd-8bec-4031-af99-2de7c0307eb9",
+                                        "type": "shop",
+                                        "external_reference": "1388",
+                                        "name": "MULHOUSE NAPOLEON - ILLZACH",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3cc5470f-18b8-4407-b8ae-90749ae55492",
+                                        "type": "shop",
+                                        "external_reference": "1498",
+                                        "name": "SAINT LOUIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a6b479ef-f954-409c-8ac2-ed3a045a7a2a",
+                                        "type": "shop",
+                                        "external_reference": "1565",
+                                        "name": "SEPPOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a0124991-e618-4b74-9619-01221bebf916",
+                                        "type": "shop",
+                                        "external_reference": "1554",
+                                        "name": "STRASBOURG RIBEAUVILLé",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e0b16b93-3394-4be5-8def-b6f859006312",
+                                        "type": "shop",
+                                        "external_reference": "1564",
+                                        "name": "WISSEMBOURG",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2485b28-d360-4abe-883c-6d82907d4619",
+                                "type": "group",
+                                "external_reference": "Z36",
+                                "name": "Z36 - Ouest-Auvergne",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "216956ae-a21c-46e1-8106-10dcff48d364",
+                                        "type": "shop",
+                                        "external_reference": "1349",
+                                        "name": "BLOIS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "993db9f0-fcfe-4c26-9052-ecc3efe991ac",
+                                        "type": "shop",
+                                        "external_reference": "1314",
+                                        "name": "CHATEAUROUX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ca170992-db83-473d-8160-42bcc891dc59",
+                                        "type": "shop",
+                                        "external_reference": "1233",
+                                        "name": "CLERMONT FERRAND AUBIERE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e2b0b6b2-2ea9-4200-ae4d-11364aec50cc",
+                                        "type": "shop",
+                                        "external_reference": "1035",
+                                        "name": "CLERMONT FERRAND REPUBLIQUE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5d04d778-085d-41a5-be9c-319fb9196e57",
+                                        "type": "shop",
+                                        "external_reference": "1540",
+                                        "name": "COURNON D'AUVERGNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5346cda6-ca9b-4756-9436-96d1ccf225f0",
+                                        "type": "shop",
+                                        "external_reference": "1595",
+                                        "name": "GERZAT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1fe5e605-e0f6-456b-997f-399b47fbefdf",
+                                        "type": "shop",
+                                        "external_reference": "1561",
+                                        "name": "LA ROCHE SUR YON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1b9dbec4-7123-455e-b911-944464dfcb50",
+                                        "type": "shop",
+                                        "external_reference": "1054",
+                                        "name": "LIMOGES GAMBETTA",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c305a359-08c3-46f1-968b-4fa5e691a7c7",
+                                        "type": "shop",
+                                        "external_reference": "1550",
+                                        "name": "LIMOGES NORD",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9bfeaabf-7835-41bc-b77a-c8cc0c1c6a66",
+                                        "type": "shop",
+                                        "external_reference": "1403",
+                                        "name": "MOULINS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a0a9f2d4-4570-4e0f-b1c7-c80540d9077a",
+                                        "type": "shop",
+                                        "external_reference": "1162",
+                                        "name": "NEVERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "882a55c0-fc82-4138-8154-bf6c38150b30",
+                                        "type": "shop",
+                                        "external_reference": "1086",
+                                        "name": "POITIERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2a192986-ebb5-457c-8615-0cc0a6cbd583",
+                                        "type": "shop",
+                                        "external_reference": "1425",
+                                        "name": "ROCHEFORT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bc29da93-7ad6-4cc1-a489-9f1e29f368ab",
+                                        "type": "shop",
+                                        "external_reference": "1126",
+                                        "name": "TOURS GRAMMONT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "49006afa-1799-4acf-a675-1aa5618081e8",
+                                        "type": "shop",
+                                        "external_reference": "1288",
+                                        "name": "TOURS MAGINOT",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "be522051-964f-405e-ae39-0600224fb0d6",
+                                        "type": "shop",
+                                        "external_reference": "1525",
+                                        "name": "VICHY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "89a67fff-4d68-4434-88a2-4bc03643330f",
+                        "type": "group",
+                        "external_reference": "Z4",
+                        "name": "Z4 - CS FRANCE",
+                        "model_code": "AREA",
+                        "children": [
+                            {
+                                "id": "8d5f188b-d4d0-4a87-b121-0cd838316047",
+                                "type": "group",
+                                "external_reference": "Z41",
+                                "name": "Z41 - Ile de France",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "96ea3ec5-9948-48e5-9cc2-43f3f4f68975",
+                                        "type": "shop",
+                                        "external_reference": "1083",
+                                        "name": "BOULOGNE PTE ST CLOUD",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "94a47971-3371-49e4-90d1-d6fc807fb91c",
+                                        "type": "shop",
+                                        "external_reference": "1286",
+                                        "name": "CHAMBOURCY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "284ff5bf-1989-4bc5-869c-7510205a82c5",
+                                        "type": "shop",
+                                        "external_reference": "1012",
+                                        "name": "NEUILLY PLAISANCE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c2bd2fb7-203a-4a95-a72f-ffcacf43b1aa",
+                                        "type": "shop",
+                                        "external_reference": "1014",
+                                        "name": "PARIS 12 - PORTE DOREE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cd9ff150-5173-4d91-ab4e-2c31f6643da4",
+                                        "type": "shop",
+                                        "external_reference": "1100",
+                                        "name": "PARIS 14 - BRUNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b7a47bc8-51dc-425b-bf6a-8b7d09fb8670",
+                                        "type": "shop",
+                                        "external_reference": "1017",
+                                        "name": "PARIS 17 - RUE DE VILLIERS",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7be5e1e1-a971-4aab-9208-1ae060fcd67c",
+                                        "type": "shop",
+                                        "external_reference": "1245",
+                                        "name": "PETIT CLAMART",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "fa4d7eab-d8f8-41cd-a4fe-be9f87111fd5",
+                                        "type": "shop",
+                                        "external_reference": "1105",
+                                        "name": "SAINT GERMAIN EN LAYE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f312abe3-b7ed-4176-b19a-95a75a4a7561",
+                                        "type": "shop",
+                                        "external_reference": "1053",
+                                        "name": "SURESNES",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1fb1d420-58e9-46fb-a7d4-23f568245535",
+                                        "type": "shop",
+                                        "external_reference": "1185",
+                                        "name": "VILLEMOMBLE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b1f9be8a-5951-4f4d-abfd-aa6d489d54e3",
+                                        "type": "shop",
+                                        "external_reference": "1259",
+                                        "name": "VITRY SUR SEINE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "34be256a-9909-4e86-becf-ff323900cd8c",
+                                "type": "group",
+                                "external_reference": "Z42",
+                                "name": "Z42 - Nord",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "c1db68c6-358e-4b3e-9451-07341406eae5",
+                                        "type": "shop",
+                                        "external_reference": "1174",
+                                        "name": "CAMBRAI",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8c7323be-e214-4101-8c76-4200affddd88",
+                                        "type": "shop",
+                                        "external_reference": "1296",
+                                        "name": "FACHES THUMESNIL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "60cbdd65-c7bb-4c76-b9fa-7aa8e1878ff8",
+                                        "type": "shop",
+                                        "external_reference": "1009",
+                                        "name": "LILLE LIBERTE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0fc30e9a-1ac1-4912-8129-d57d6898f8fe",
+                                        "type": "shop",
+                                        "external_reference": "1235",
+                                        "name": "LILLE LORRAINE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "43475506-da3a-4772-bc6d-c0194d38e370",
+                                        "type": "shop",
+                                        "external_reference": "1068",
+                                        "name": "SCHILTIGHEIM",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7464c4b5-af17-4714-a041-65200995fae7",
+                                        "type": "shop",
+                                        "external_reference": "1463",
+                                        "name": "SOMAIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "63b68f88-5b75-49c0-af6e-93b79cf01648",
+                                        "type": "shop",
+                                        "external_reference": "1789",
+                                        "name": "TEST CROIX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "00ce6394-f3fe-401c-a1e7-f87fe71c6c01",
+                                        "type": "shop",
+                                        "external_reference": "1231",
+                                        "name": "TOURCOING",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b3288078-518d-421c-8ccb-5798e74e8bfa",
+                                        "type": "shop",
+                                        "external_reference": "1217",
+                                        "name": "VALENCIENNES BLD SALY",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "81fa4da1-3af1-4cbc-b08e-7caa7a90829d",
+                                        "type": "shop",
+                                        "external_reference": "1096",
+                                        "name": "VALENCIENNES CX D'ANZIN",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "fbc8d18d-dadd-4c3a-80cb-ba38539c92ef",
+                                        "type": "shop",
+                                        "external_reference": "1206",
+                                        "name": "VILLENEUVE D'ASCQ",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "818f31b6-b41f-42c9-a005-ef5e31691708",
+                                "type": "group",
+                                "external_reference": "Z43",
+                                "name": "Z43 - Rhône Alpes",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "e7f01341-a71b-42ff-814d-808dc08b85f2",
+                                        "type": "shop",
+                                        "external_reference": "1095",
+                                        "name": "AIX EN PROVENCE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "def52f25-fee1-4eeb-bbb0-dc1d361905e6",
+                                        "type": "shop",
+                                        "external_reference": "1459",
+                                        "name": "GRENOBLE FONTAINE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "5a2162f4-97b2-4140-bb48-aa3a2b8ee901",
+                                        "type": "shop",
+                                        "external_reference": "1385",
+                                        "name": "GRENOBLE GRAND PLACE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "ed5c3e0f-5e5e-4699-b38d-05502c54a9b3",
+                                        "type": "shop",
+                                        "external_reference": "1052",
+                                        "name": "GRENOBLE LA TRONCHE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c09a7900-865a-493e-9ed1-90c55b321080",
+                                        "type": "shop",
+                                        "external_reference": "1153",
+                                        "name": "GRENOBLE VALLIER",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "03b34725-ee58-4814-a0e2-14c8ca93be50",
+                                        "type": "shop",
+                                        "external_reference": "1272",
+                                        "name": "LYON PINEL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "07db1eef-07d4-4fc9-98bc-bc2452a07488",
+                                        "type": "shop",
+                                        "external_reference": "1326",
+                                        "name": "VOIRON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "28454540-e349-4074-801b-0c692ca966ca",
+                                "type": "group",
+                                "external_reference": "Z44",
+                                "name": "Z44 - Grand Sud",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "3beaedc9-8f29-4fa4-ab51-fd663dc92f6e",
+                                        "type": "shop",
+                                        "external_reference": "1313",
+                                        "name": "BORDEAUX BOULIAC",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3bfafe6b-8329-4a28-ac4b-124fb37a4fc7",
+                                        "type": "shop",
+                                        "external_reference": "1279",
+                                        "name": "BORDEAUX CENON",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a35be84b-4bdb-4db3-9bbf-f447f3ee67bb",
+                                        "type": "shop",
+                                        "external_reference": "1244",
+                                        "name": "BORDEAUX GEORGE V",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e0aa1d9c-5490-4f52-b1fd-1950d08c91f4",
+                                        "type": "shop",
+                                        "external_reference": "1293",
+                                        "name": "BORDEAUX MERIGNAC",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b6ea0b11-0ff2-4579-a2ce-c7e5b640ed76",
+                                        "type": "shop",
+                                        "external_reference": "1386",
+                                        "name": "BORDEAUX PESSAC",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8aa440f6-de63-4e25-8815-b15a42059a69",
+                                        "type": "shop",
+                                        "external_reference": "1294",
+                                        "name": "TOULOUSE Etats-Unis",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "895c6229-96dd-4c65-8a2f-0876a1fcff05",
+                                        "type": "shop",
+                                        "external_reference": "1337",
+                                        "name": "TOULOUSE PORTET",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3e127f11-951c-4074-b768-16a4d409e2f5",
+                                        "type": "shop",
+                                        "external_reference": "1114",
+                                        "name": "TOULOUSE REVEL",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c6fa627b-68e5-4ab8-a0a8-b8858c4f53a2",
+                                        "type": "shop",
+                                        "external_reference": "1132",
+                                        "name": "TOULOUSE RTE NARBONNE",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0af798e1-607d-4b6c-9305-ba323fb5e816",
+                        "type": "group",
+                        "external_reference": "ZZ",
+                        "name": "ZZ - Autre",
+                        "model_code": "AREA",
+                        "children": [
+                            {
+                                "id": "bcf549eb-e103-4e15-8182-3f6ac3c6c5a4",
+                                "type": "group",
+                                "external_reference": "ZZZ",
+                                "name": "ZZZ - Autre",
+                                "model_code": "SECTOR",
+                                "children": [
+                                    {
+                                        "id": "77920120-b61d-473d-bdda-5f41c1c8551e",
+                                        "type": "shop",
+                                        "external_reference": "1008",
+                                        "name": "CENTRE DE ALEX",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "38c5f5e5-dd27-46eb-a82b-4e2f29d93477",
+                                        "type": "shop",
+                                        "external_reference": "MBE",
+                                        "name": "Centre de Maxime",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "aa8fe884-47eb-42e4-a930-538eb8ddba84",
+                                        "type": "shop",
+                                        "external_reference": "PLE",
+                                        "name": "Centre de Paul",
+                                        "model_code": "SHOP",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "is_success": true,
+    "error_code": null,
+    "error_message": null
+}

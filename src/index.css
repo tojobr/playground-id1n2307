@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main {
+	min-height: 100vh;
+	padding: 16px;
+}
+
+.collapsible-table {
+	padding: 10px;
+}
+
+.summary-table {
+	padding: 10px;
+}
+
+.flexRow {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+
+.flex1 {
+	flex-grow: 1;
+}
+
+.fullWidth {
+	width: 100%;
+}
+
+.checkbox-item {
+	min-width: 150px;
+	max-width: 300px;
+}
